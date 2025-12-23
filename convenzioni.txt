@@ -1,0 +1,19 @@
+CONVENZIONI PER IL PROGETTO FINALE:
+	- nomi delle variabili membro:
+    - costanti: k_esempio
+    - private: int esempio_  
+    
+  - nomi delle funzioni membro: 
+    - costruttori: Esempio()
+    - helper function private: esempio_funzione() 
+    
+    
+  - nomi dei file:
+		- cpp: fileEsempio.cpp, main.cpp
+		- txt: log.txt 
+	
+	- indentazione (numero spazi per indentare): 3
+		
+	
+	
+	
